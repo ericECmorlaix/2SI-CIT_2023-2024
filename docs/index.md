@@ -34,7 +34,7 @@
     - Remédiation [Prise en main d'Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target="_blank"} pour communiquer un compte rendu ;    
 
     - **S'initier** à la programmation des objets connectés avec la carte [**QuickPi**](https://quick-pi.org/){target="_blank"} :
-        - à partir de la plateforme [**Castor Informatique France-IOI**](https://concours.castor-informatique.fr/){target="_blank"}​ en utilisant le code `ctmn56wn` fourni​​​ pour débuter le **Parcours_1** ;
+        - à partir de la plateforme [**Castor Informatique France-IOI**](https://concours.castor-informatique.fr/){target="_blank"}​ en utilisant le code `5yjjjh8i` fourni​​​ pour débuter le **Parcours_1** ;
         - **regardez** la [vidéo de prise en main de l'interface](https://web.microsoftstream.com/video/3d15c5a0-a510-4553-a45c-892de0227100){target="_blank"} ;
         - ==**notez, transmettez par [mail] et conservez** votre code personnel pour ce Parcours pour y retourner d'une fois sur l'autre== ;
 
@@ -44,7 +44,7 @@
 
     - **Poursuivre**, avec votre code personnel, la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} ;
 
-    - Télécharger puis compléter progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/2SI-CIT_2023-2024/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/2SI-CIT_2023-2024/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary}
+    - Télécharger puis compléter progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/quickpi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/quickpi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary}
 
     - Explorer d'avantage [les fonctionnalités de l'application multiplateforme Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank}
 
