@@ -35,6 +35,15 @@
 
     - **S'initier** à la modélisation 3D avec [BlocksCAD](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/BlocksCAD/){target="_blank"} ;
 
+    - Evocation du projet **"Couronne de l'Avent"** :
+
+    <center>
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RwjsnJRihXg?si=Thi1l0IKc9Zej4Pv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </center>
+
+    > Quelles solutions pour les bougies ?
+    
+
 === "TRAVAIL À FAIRE"
 
     ![homework](images/undraw_Working_re_ddwy.svg){: .center width=40%}
