@@ -27,7 +27,7 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
-## Le 10/10
+## Les 10 et 17/10
 
 === "CONTENU DE SÉANCE"
 
