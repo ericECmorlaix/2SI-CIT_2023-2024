@@ -17,7 +17,7 @@
 
 - **Développer** en équipe tout au long de l'année un projet long tel que :
 
-    - Construire et programmer des robots pour domino challenge et/ou RoboFesta ;
+    - Construire et programmer des robots pour domino challenge et/ou [RoboFesta](https://www.robofesta.fr){target="_blank"} ;
     - Développer un jeu vidéo pour la [Nuit du c0de/](https://www.nuitducode.net/){target="_blank"}
     - Créer un véhicule électrique et un stand pour [Course en Cours](https://www.course-en-cours.com/fr/){target="_blank"} ;    
     - Développer des équipements pour connecter la serre du projet "planète verte" au collège Saint Augustin ;
@@ -27,7 +27,19 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
-## Le 12/12
+## Le 09/01
+
+=== "CONTENU DE SÉANCE"
+
+    - Organisation des projets : choix des sujets, recherche des problématiques fonctionnelles à résoudre, liste des tâches à réaliser...
+
+=== "TRAVAIL À FAIRE"
+
+    ![homework](images/undraw_Working_re_ddwy.svg){: .center width=40%}
+
+    - **Poursuivre** les travaux pour votre projet ;
+
+## Les 12 et 19/12
 
 === "CONTENU DE SÉANCE"
 
