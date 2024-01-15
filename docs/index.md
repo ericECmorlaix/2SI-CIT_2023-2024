@@ -25,13 +25,25 @@
     - Autres projets d'innovation...
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
+***
+## Le 16/01
+
+=== "CONTENU DE SÉANCE"
+
+    - Poursuite des projets : Précision des sujets, recherche des problématiques fonctionnelles à résoudre, liste des tâches à réaliser, investigation de solutions technologiques...
+
+=== "TRAVAIL À FAIRE"
+
+    ![homework](images/undraw_Working_re_ddwy.svg){: .center width=40%}
+
+    - **Poursuivre** les travaux pour votre projet ;
 
 ***
 ## Le 09/01
 
 === "CONTENU DE SÉANCE"
 
-    - Organisation des projets : choix des sujets, recherche des problématiques fonctionnelles à résoudre, liste des tâches à réaliser...
+    - Organisation des projets : choix des sujets, recherche des problématiques fonctionnelles à résoudre, liste des tâches à réaliser,...
 
 === "TRAVAIL À FAIRE"
 
