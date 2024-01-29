@@ -25,6 +25,32 @@
     - Autres projets d'innovation...
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
+
+
+***
+## Le 30/01
+
+=== "CONTENU DE SÉANCE"
+
+    - Poursuite des projets : Précision des sujets, recherche des problématiques fonctionnelles à résoudre, liste des tâches à réaliser, investigation de solutions technologiques...
+    
+    - Ressources :
+        - [Yahboom Building:bit starter kit](http://www.yahboom.net/study/Building_bit){target=_blank} : penser à [recharger la batterie](./yahboom/charge_batterie.pdf){target=_blank}, utiliser l'[éditeur Python recommandé](./yahboom/editeur_mu.pdf){target=_blank}, installer dans une carte [BBC micro:bit](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/BBC_microbit/){target=_blank} la bibliothèque [Micropython Building:bit](./yahboom/bibliotheque_building-bit.pdf){target=_blank}, réaliser [le montage d'une mini-voiture](./yahboom/bibliotheque_building-bit.pdf){target=_blank}, programmer avec les fonctions de [l'API MicroPython Building:bit](./yahboom/Buildingbit_MicroPython_API.pdf){target=_blank} ;
+        - [4tronix bit:bot](https://4tronix.co.uk/blog/?p=1490){target=_blank} ;
+         
+
+=== "TRAVAIL À FAIRE"
+
+    ![homework](images/undraw_Working_re_ddwy.svg){: .center width=40%}
+
+    - **Poursuivre** les travaux pour votre projet ;
+
+***
+
+## Le 23/01
+
+- Présentation des spécialités [Sciences de l'Ingénieur](https://ericecmorlaix.github.io/si/){target=_blank} et [Numérique et Sciences Informatique](https://ericecmorlaix.github.io/nsi/){target=_blank} ;
+
 ***
 ## Le 16/01
 
