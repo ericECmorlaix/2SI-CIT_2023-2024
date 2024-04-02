@@ -28,6 +28,41 @@
 
 
 ***
+
+!!! info "A LIRE :"
+
+    - [Travailler PYTHON en prépa ECG](https://www.prepaplus.tv/blog/50/Travailler-python-en-prepa-ECG){target=_blank} ;
+
+    - [LA LICENCE MIASHS Mathématiques et informatiques appliquées aux sciences humaines et sociales](https://www.onisep.fr/recherche?text=La+licence+MIASHS){target=_blank} ;
+
+    - [Sortir de sa zone de confort pour apprendre afin de se réaliser](https://static.wixstatic.com/media/557f79_7cbdd28074e84e4882ec9314f46d5fb0~mv2.jpeg/v1/fill/w_1024,h_768,al_c,q_90/557f79_7cbdd28074e84e4882ec9314f46d5fb0~mv2.webp){target=_blank} ;
+        source : <https://www.jeromefrugere.com/post/pourquoi-dit-on-qu-il-faut-se-faire-violence-pour-sortir-de-sa-zone-de-confort>
+    
+    - [Présentation SI](https://ericecmorlaix.github.io/si/){target=_blank}
+
+    - [Présentation NSI](https://ericecmorlaix.github.io/nsi/){target=_blank}
+
+***
+
+## Du 26/03
+
+=== "CONTENU DE SÉANCE"
+
+    - Reprise des projets : Précision des sujets, recherche des problématiques fonctionnelles à résoudre, liste des tâches à réaliser, investigation de solutions technologiques...
+    
+    - Ressources :
+        - [Le challenge robotique Brestois programmé le 15 mai](https://ericecmorlaix.github.io/1SI_2023-2024/Projet/Challenge_Robotique_SI_Brestois.pdf){target=_blank} ;
+        - [Yahboom Building:bit starter kit](http://www.yahboom.net/study/Building_bit){target=_blank} : penser à [recharger la batterie](./yahboom/charge_batterie.pdf){target=_blank}, utiliser l'[éditeur Python recommandé](./yahboom/editeur_mu.pdf){target=_blank}, installer dans une carte [BBC micro:bit](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/BBC_microbit/){target=_blank} la bibliothèque [Micropython Building:bit](./yahboom/bibliotheque_building-bit.pdf){target=_blank}, réaliser [le montage d'une mini-voiture](./yahboom/bibliotheque_building-bit.pdf){target=_blank}, programmer avec les fonctions de [l'API MicroPython Building:bit](./yahboom/Buildingbit_MicroPython_API.pdf){target=_blank} ;
+        - [4tronix bit:bot](https://4tronix.co.uk/blog/?p=1490){target=_blank} ;
+         
+
+=== "TRAVAIL À FAIRE"
+
+    ![homework](images/undraw_Working_re_ddwy.svg){: .center width=40%}
+
+    - **Poursuivre** les travaux pour votre projet ;
+
+***
 ## Le 30/01
 
 === "CONTENU DE SÉANCE"
